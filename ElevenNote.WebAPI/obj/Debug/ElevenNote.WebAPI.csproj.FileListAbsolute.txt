@@ -122,3 +122,4 @@ C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\Elev
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete

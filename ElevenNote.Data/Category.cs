@@ -5,14 +5,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ElevenNote.Data
-{
-    class Category
-    {
-        [Key]
-        public int CategoryId { get; set; }
-        [Required]
-        [Display(Name = "Category Name")]
-        public string CategoryName { get; set; }
-    }
-}
+//namespace ElevenNote.Data
+//{
+//    class Category
+//    {
+//        [Key]
+//        public int CategoryId { get; set; }
+//        [Required]
+//        [Display(Name = "Category Name")]
+//        public string CategoryName { get; set; }
+//    }
+//}

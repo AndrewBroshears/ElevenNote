@@ -30,6 +30,5 @@ C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\Elev
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Models\bin\Debug\System.Web.Http.Owin.xml
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.AssemblyReference.cache
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
-C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\Andrew\OneDrive\Desktop\Eleven Fifty Projects\BlueBadge\ElevenNote\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

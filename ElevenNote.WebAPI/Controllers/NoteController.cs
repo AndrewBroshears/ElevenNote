@@ -60,8 +60,10 @@ namespace ElevenNote.WebAPI.Controllers
         {
             var service = CreateNoteService();
 
-            if (!service.DeleteNot(id))
-                return Ok();
+            if (!service.DeleteNote(id))
+                return InternalServerError();
+
+            return Ok();
         }
     }
 }
